@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khalil-laleh
+👋 Hi, I’m @khalil-laleh
 
 
 <!---
